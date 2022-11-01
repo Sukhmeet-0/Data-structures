@@ -1,0 +1,8 @@
+pn=deepestNode(newBt)
+# deleteNode(newBt,dpn)
+# levelOrderTraversal(newBt)
+# print()
+# delete(newBt,'Tea')
+# print()
+# levelOrderTraversal(newBt)
+# print()
